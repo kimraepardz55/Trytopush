@@ -1,2 +1,4 @@
 body {
-  background: #454545; }
+  background: #eeaeca;
+  background: radial-gradient(circle, #eeaeca 0%, #94bbe9 100%);
+  clip-path: circle(150px at 80px 20px); }
